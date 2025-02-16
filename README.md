@@ -1,4 +1,4 @@
-# Variable In JavaScript
+## Variable In JavaScript
 
 - - Var : Function Scoped - Can be Reassign and Redeclared (Not Recommended)
 - - Let : Block-Scope - Can be Reassign but not Redeclared
@@ -26,8 +26,4 @@ Written Rules
 
 - Function Scoped - Can be Reassign and Redeclared (Not Recommended)
 
-- Reassigned & redeclared
-  var Name = "John Cena";
-- output : John Cena
-  var Name = "Roman Reings";
-- output : Roman Reings
+## Data Types In JavaScript
