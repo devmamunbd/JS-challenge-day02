@@ -25,9 +25,9 @@ Written Rules
 # Var
 
 - Function Scoped - Can be Reassign and Redeclared (Not Recommended)
-  // Var
-  // Reassigned & redeclared
+
+- Reassigned & redeclared
   var Name = "John Cena";
-  // John Cena
+- output : John Cena
   var Name = "Roman Reings";
-  // Roman Reings
+- output : Roman Reings
