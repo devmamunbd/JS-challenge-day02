@@ -1,7 +1,7 @@
 /*
     **Primitive Data Types**
     - String - Text Value ("Hello JavaScript");
-    - Number - Number Value 55. 10.01;
+    - Number - Numeric Value 55. 10.01;
     - Boolean - True/False;
     - Undefined - Declared Variable Without Value;
     - Null - Nothing : let x = null;
